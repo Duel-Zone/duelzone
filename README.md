@@ -1,3 +1,3 @@
 # Duel Zone
 
-![Logo](bg.jpg?raw=true "Optional Title")
+![Logo](bg.png?raw=true "Optional Title")
